@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>dane/mapa.png</file>
+        <file>dane/mgla.png</file>
+        <file>dane/pojazd1.png</file>
+        <file>dane/pojazd2.png</file>
+        <file>dane/pojazd3.png</file>
+        <file>dane/pojazd4.png</file>
+        <file>dane/pojazd5.png</file>
+        <file>dane/pojazd6.png</file>
+        <file>dane/pojazd7.png</file>
+        <file>dane/pojazd8.png</file>
+        <file>dane/pojazd9.png</file>
+        <file>dane/pojazd10.png</file>
+        <file>dane/pojazd11.png</file>
+        <file>dane/swiatlo_czerwone.png</file>
+        <file>dane/swiatlo_zielone.png</file>
+    </qresource>
+</RCC>

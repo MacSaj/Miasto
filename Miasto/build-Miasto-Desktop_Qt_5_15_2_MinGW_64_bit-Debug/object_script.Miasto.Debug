@@ -1,0 +1,16 @@
+debug/Graf.o
+debug/Grafika.o
+debug/Mapa.o
+debug/Mgla.o
+debug/Pojazd.o
+debug/PojazdSterownik.o
+debug/Sciezka.o
+debug/Stala.o
+debug/Sterownik.o
+debug/Swiatlo.o
+debug/SwiatloSterownik.o
+debug/Wierzcholek.o
+debug/main.o
+debug/okno.o
+debug/qrc_dane.o
+debug/moc_okno.o

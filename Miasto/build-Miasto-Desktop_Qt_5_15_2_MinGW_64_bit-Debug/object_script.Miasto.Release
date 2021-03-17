@@ -1,0 +1,16 @@
+release/Graf.o
+release/Grafika.o
+release/Mapa.o
+release/Mgla.o
+release/Pojazd.o
+release/PojazdSterownik.o
+release/Sciezka.o
+release/Stala.o
+release/Sterownik.o
+release/Swiatlo.o
+release/SwiatloSterownik.o
+release/Wierzcholek.o
+release/main.o
+release/okno.o
+release/qrc_dane.o
+release/moc_okno.o
